@@ -22,13 +22,21 @@ Eating popcorn, drinking saké, being merry, disliking [Narcissism](https://en.w
 
 ## Professional Experience
 
-`1600`
-__Royal Mint__, London
+`2018-2019`
+__Pantheon__ (SF/remote)
+-- __People Operations Generalist__
+- Owned recruiting operations and onboarding, trained 2 recruiting coordinators, partnered with 15 agency
+recruiters, produced 26% more hired in Q1/Q2 than previous best period in company history
+- Presented benefits information and company resources at weekly orientations; onboarded 75+ new hires
+- Main HR operations resource while scaling from 150 to 225 employees and contractors, resolved concerns related
+to the benefits function including worker’s compensation, and managed relationship with broker, Sequoia Tech
+- HR systems administrator for Greenhouse (ATS), Bamboo HR (HRIS), HireRight (background checks), Sequoia
+Benefits Portal, Vanguard (401K), Rocketrip (incentives), and Spoke (ticketing)
+- Executed San Francisco HCSO reporting; created reports with recruiting and HR data for executive team
+- Promoted from Coordinator role via Premier Talent after 2 months
 
-- Warden
-- Minted coins
 
-`1600`
+`2018`
 __Lucasian professor of Mathematics__, Cambridge University
 
 
@@ -36,27 +44,22 @@ __Lucasian professor of Mathematics__, Cambridge University
 ## Volunteer Experience
 
 `2023`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-`2023`
 San Francisco-Marin Food Bank (CA)
--- Pantry Coordinator, Macedonia Baptist Church
+-- *Pantry Coordinator, Macedonia Baptist Church*
 
 `2022`
-Code for America (fully remote)
+*Code for America (fully remote)*
 -- Voting Judge, Congressional App Challenge
 
 `2021`
 Stanford University (fully remote)
--- Section Leader, Code in Place
+*Section Leader, Code in Place*
 
 
 
 ## Education
 
-`2022 - 2024`
+`2022 - 2024` (expected)
 __UCSC Silicon Valley Extension__ (fully remote)
 - Computer Programming Certificate
 
