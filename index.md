@@ -13,17 +13,11 @@ Human, Programmer, Yogi.
 
 
 ## Currently
-
 Standing on the shoulders of giants
 
 ### Specialized in
-
 Eating popcorn, drinking saké, being merry, disliking [Narcissism](https://en.wikipedia.org/wiki/Narcissism)
 
-
-### Research interests
-
-How many licks, 
 
 
 ## Professional Experience
@@ -41,30 +35,43 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ## Volunteer Experience
 
-`2012`
+`2023`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
+`2023`
+San Francisco-Marin Food Bank (CA)
+-- Pantry Coordinator, Macedonia Baptist Church
+
+`2022`
+Code for America (fully remote)
+-- Voting Judge, Congressional App Challenge
+
+`2021`
+Stanford University (fully remote)
+-- Section Leader, Code in Place
+
+
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - 2024`
+__UCSC Silicon Valley Extension__ (fully remote)
+- Computer Programming Certificate
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019 - 2021`
+__Holberton__ (SF/remote)
+- Coding School of Software Engineering
 
-- Sizar
+`2019`
+__General Assembly__ (SF)
+- SQL Bootcamp: Learning the Language
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2012`
+__Temple University__ (Philadelphia, PA)
+- BBA in Marketing
 
 <!-- ### Footer
 
 Last updated: October 2023 -->
-
-
