@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 15%;                  /* Reduce left margin ??? */
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 60%;
@@ -124,7 +124,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;;                  /* Reduce left margin ??? */
 }
 
 h1+p {
