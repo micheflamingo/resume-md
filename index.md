@@ -31,8 +31,8 @@ __Benefits Support - *Yelp*__ (SF)
 
 `2017 - 2019`
 __Yoga Instructor - *Corepower Yoga*__ (HI & CA)
-- Guided students on their yogic path at multiple locations 
-for the nation's largest operator of yoga studios
+- Promoted mindful breath with movement to reduce the stress of uber high cost of modern living
+- Guided students at multiple locations for the nation's largest operator of yoga studios
 
 `2018`
 __Recruitment Specialist - *City Mill*__ (Honolulu)
@@ -43,8 +43,7 @@ __Recruitment Specialist - *City Mill*__ (Honolulu)
 __HR Manager - *The Modern Honolulu*__ (HI)
 - Streamlined the full cycle recruitment process, conducted group interview activities
 - Revamped open enrollment fair; determined wage increases for 400+ union employees
-- Spearheaded the hotel’s first blood drive with Blood Bank of 
-Hawaii and exceeded collection goal
+- Spearheaded the hotel’s first blood drive, exceeded the collection goal with Blood Bank of Hawaii
 - Promoted from Coordinator role via Remedy Staffing after 3 months
 
 `2015`
@@ -55,7 +54,7 @@ __Admin & Fiscal Support Specialist - *The University of Hawaii*__ (Manoa)
 
 `2014 - 2015`
 __HR Associate - *Research Corporation of The University of Hawaii*__ (Manoa)
-- Collaborated with researches, coached teams on processes involving HR and recruiting systems
+- Collaborated with researches, coached teams on processes involving HR systems
 - Confirmed benefits eligiblity of 3,000+ employees, administered COBRA notifications
 
 
