@@ -57,7 +57,7 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em; /* Reduce spacing between contact info and experience? */
+	/*margin-top: 1em;*/
 	/*margin-left: 1em;*/
 }
 
@@ -136,7 +136,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 0.25em; /* Reduce spacing ??? */
 	position: relative;
 	top: 1.2em;
 	text-align: right;
