@@ -55,7 +55,7 @@ __Admin & Fiscal Support Specialist - *The University of Hawaii*__ (Manoa)
 `2014 - 2015`
 __HR Associate - *Research Corporation of The University of Hawaii*__ (Manoa)
 - Collaborated with researches, coached teams on processes involving HR systems
-- Confirmed benefits eligiblity of 3,000+ employees, administered COBRA notifications
+- Confirmed benefits eligibility of 3,000+ employees, administered COBRA notifications
 
 
 ## Volunteer Experience
